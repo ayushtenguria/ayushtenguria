@@ -5,8 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushtenguria" alt="ayushtenguria" /></a> </p>
 
+- 👯 I’m looking to collaborate on **Web3.0**
+
+- 📝 I regularly write articles on [weforcode.com](weforcode.com)
+
+- 💬 Ask me about **react**
+
+- 📫 How to reach me **hacktiger.as@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-sharma-800853120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-sharma-800853120/" height="30" width="40" /></a>
+<a href="https://instagram.com/ayushtenguria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushtenguria" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushtenguria&show_icons=true&locale=en&layout=compact" alt="ayushtenguria" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushtenguria&show_icons=true&locale=en" alt="ayushtenguria" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushtenguria&" alt="ayushtenguria" /></p>
