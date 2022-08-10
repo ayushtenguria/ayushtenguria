@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Sharma a.k.a hacktiger</h1>
+<h1 align="center">Hi 👋, I'm Ayush Sharma a.k.a Hacktiger</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushtenguria&label=Profile%20views&color=0e75b6&style=flat" alt="ayushtenguria" /> </p>
