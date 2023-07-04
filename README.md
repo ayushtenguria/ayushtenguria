@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web3.0**
 
-- 📝 I regularly write articles on *<a href="https:/blog.ayushtenguria.com"> blog.ayushtenguria.com</a>
+- 📝 I regularly write articles on <a href="https:/blog.ayushtenguria.com"> blog.ayushtenguria.com</a>
 
 - 💬 Ask me about **ReactJS**
 
