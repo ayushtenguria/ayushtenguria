@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ayush Sharma a.k.a Hacktiger</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushtenguria&label=Profile%20views&color=0e75b6&style=flat" alt="ayushtenguria" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushtenguria" alt="ayushtenguria" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Life**
 
-- 👯 I’m looking to collaborate on **Web3.0**
+- 👯 I’m looking to collaborate on **World Changing Software**
 
 - 📝 I regularly write articles on <a href="https:/blog.ayushtenguria.com"> blog.ayushtenguria.com</a>
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **Softwares**
 
 - 📫 How to reach me **hacktiger.as@gmail.com**
 
