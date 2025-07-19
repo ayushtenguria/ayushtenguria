@@ -79,17 +79,6 @@ const ayush = {
 - 📝 **Writing**: Technical articles on [blog.ayushtenguria.com](https://blog.ayushtenguria.com)
 - 💡 **Exploring**: AI/ML integration in web applications
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/ayushtenguria/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushtenguria&repo=project1&theme=radical&hide_border=true" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/ayushtenguria/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushtenguria&repo=project2&theme=radical&hide_border=true" alt="Project 2"/>
-  </a>
-</div>
-
 ## 📱 Connect with Me
 
 <div align="center">
